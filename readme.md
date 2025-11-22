@@ -1,6 +1,4 @@
-Here is your **entire file translated fully into English**, clearly and accurately:
 
----
 
 # **Pcap Analyzer Online**
 
@@ -93,13 +91,4 @@ Open in browser:
 * **[Chartkick](https://github.com/mher/chartkick.py)**
 * **[Highcharts](http://api.highcharts.com/highcharts)**
 
----
 
-## **More**
-
-For more information, visit the blog:
-**[le4f.net](http://le4f.net/post/post/pcap-online-analyzer)**
-
----
-
-If you want this in **GitHub README format**, **PDF**, or a **downloadable file**, just tell me — I'll generate it!
